@@ -18,8 +18,8 @@ export default defineSiteConfig({
     tipoSchema: ["Electrician"],
   },
   contacto: {
-    telefono: "+34600000000", // SUSTITUIR por el móvil de Ysst
-    whatsapp: "+34600000000", // SUSTITUIR por el móvil de Ysst
+    telefono: "+34643637915", 
+    whatsapp: "+34643647915", 
     email: "hola@ribeselectricistas.example",
     direccion: {
       calle: "Carrer de Bonavista, 14, bajo",
