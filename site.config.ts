@@ -178,7 +178,7 @@ export default defineSiteConfig({
       imagenes: [
         {
           src: "/ejemplo/trabajo-cuadro.jpg",
-          alt: "Cuadro eléctrico de un bajo comercial renovado, con el cableado ordenado",
+          alt: "Cuadro eléctrico renovado en la trastienda de un bajo comercial, con los cables en canaleta",
         },
       ],
     },
