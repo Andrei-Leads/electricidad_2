@@ -196,7 +196,7 @@ export default defineSiteConfig({
       imagenes: [
         {
           src: "/ejemplo/trabajo-iluminacion.jpg",
-          alt: "Pasillo de comunidad con apliques LED nuevos encendidos",
+          alt: "Rellano de la escalera de una comunidad con apliques LED nuevos encendidos",
         },
       ],
     },
