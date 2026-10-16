@@ -333,6 +333,6 @@ export default defineSiteConfig({
     titulo: "Electricista en Patraix, Valencia | Ribes e Hijo",
     descripcion:
       "Electricistas en Patraix y Valencia: averías 24 h, cuadros, enchufes e iluminación. Precio antes de ir. Más de 25 años en el barrio.",
-    url: "https://electricidad-2.vercel.app", // PROVISIONAL: poner la URL real de Vercel tras el primer despliegue
+    url: "https://electricidad-2.vercel.app",
   },
 });
