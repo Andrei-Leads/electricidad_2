@@ -18,7 +18,7 @@ export default defineSiteConfig({
     tipoSchema: ["Electrician"],
   },
   contacto: {
-    telefono: "+34643637915", 
+    telefono: "+34643647915", 
     whatsapp: "+34643647915", 
     email: "hola@ribeselectricistas.example",
     direccion: {
