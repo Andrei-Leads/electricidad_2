@@ -327,6 +327,8 @@ export default defineSiteConfig({
       respuesta: "Trabajamos en Patraix y por todo Valencia, y también en Mislata, Xirivella y Aldaia. Si dudas, pregúntanos.",
     },
   ],
+  // Plan Básico: Vercel Web Analytics (sin cookies). Activar también Analytics en el proyecto de Vercel.
+  analitica: { vercel: true },
   seo: {
     titulo: "Electricista en Patraix, Valencia | Ribes e Hijo",
     descripcion:
