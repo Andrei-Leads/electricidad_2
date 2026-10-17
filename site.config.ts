@@ -53,7 +53,7 @@ export default defineSiteConfig({
   imagenesHero: [
     {
       src: "/ejemplo/hero.jpg",
-      alt: "Electricista de espaldas, con ropa de trabajo gris, revisando un cuadro eléctrico abierto en el recibidor de un piso",
+      alt: "Electricista de espaldas, en camiseta gris, subido a una escalera pequeña revisando el cuadro eléctrico sobre la puerta de entrada de un pasillo con suelo de terrazo; perchero con chaqueta y mochila en el suelo",
     },
   ],
   servicios: [
